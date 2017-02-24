@@ -1,0 +1,7 @@
+{
+  "url": "https://github.com/marcelo-lopes/nodebb-plugin-lavender-hide-user-profile-cover",
+  "library": "./plugin.js",
+  "less": [
+    "assets/style.less"
+  ]
+}

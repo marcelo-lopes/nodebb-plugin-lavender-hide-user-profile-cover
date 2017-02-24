@@ -1,0 +1,14 @@
+{
+  "name": "nodebb-plugin-lavender-hide-user-profile-cover",
+  "version": "0.1.0",
+  "description": "Hide user profile cover on NodeBB Lavender theme",
+  "author": {
+    "name": "marcelo-lopes",
+    "email": "schwanck@gmail.com"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.4.3"
+  }
+}
